@@ -2,5 +2,6 @@ Cuatro caminos
 Panteones
 Tacuba
 Cuitlahuac
-Popotla
-Colegio Militar
+Popo
+Colegio Mi
+Guadalajara
